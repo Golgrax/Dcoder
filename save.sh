@@ -1,5 +1,5 @@
 # Varaible to store details
-filename=.md
+filename="./MEDIUM/.md"
 
 description="\
 ## Description
