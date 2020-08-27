@@ -13,7 +13,7 @@ print(int(binary, 2))
 ```java
 import java.util.*;
 
-public class zztemp {
+public class Dcoder {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		

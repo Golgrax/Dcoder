@@ -26,7 +26,7 @@ for i in l:
 ```java
 import java.util.Scanner;
 
-public class template {
+public class Dcoder {
 
 	private static String reverse(String s) {
 

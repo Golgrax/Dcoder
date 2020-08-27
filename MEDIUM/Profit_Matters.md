@@ -18,7 +18,7 @@ print(f"[{min(a)},{max(a)}]" if min(a)!=max(a) else f"[{min(a)}]")
 ## Java
 ```java
 import java.util.Scanner;
-public class template {
+public class Dcoder {
 
 	public static void main(String[] args) {
 

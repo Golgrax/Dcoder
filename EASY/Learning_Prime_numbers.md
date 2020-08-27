@@ -27,7 +27,7 @@ for i in range(l, h+1):
 ```java
 import java.util.*;
 
-public class zztemp {
+public class Dcoder {
 	public static boolean isPrime(int n) {
 		if (n<2)
 			return false;

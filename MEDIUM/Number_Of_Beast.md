@@ -24,7 +24,7 @@ print(*l)
 ## Java
 ```java
 import java.util.Scanner;
-public class template {
+public class Dcoder {
 
 	private static String beast(int n) {
 

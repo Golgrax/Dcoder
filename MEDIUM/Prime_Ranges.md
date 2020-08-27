@@ -34,7 +34,7 @@ print(*primes[i:])
 ## Java
 ```java
 import java.util.Scanner;
-public class template {
+public class Dcoder {
 
 	private static int[] seive(int m) {
 

@@ -19,7 +19,7 @@ print("Yes" if a==b else "No")
 ```java
 import java.util.Arrays;
 import java.util.Scanner;
-public class template {
+public class Dcoder {
 
 	public static void main(String[] args) {
 

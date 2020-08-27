@@ -24,7 +24,7 @@ print(S)
 ## Java
 ```java
 import java.util.Scanner;
-public class template {
+public class Dcoder {
 
 	private static String alnum(String s) {
 

@@ -16,7 +16,7 @@ print(string[:a]+swapcase(string[a])+string[a+1:b]+swapcase(string[b])+string[b+
 ```java
 import java.util.Scanner;
 
-public class zztemp {
+public class Dcoder {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		

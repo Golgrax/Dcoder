@@ -10,7 +10,7 @@ for i in range(0, 6):
 ```java
 import java.util.*;
 
-public class zztemp {
+public class Dcoder {
 	public static void main(String[] args) {		
 		for (int i=0; i<=5; i++) {
 			for (int j=0; j<=10; j++) {

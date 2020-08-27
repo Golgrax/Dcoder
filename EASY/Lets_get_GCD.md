@@ -42,7 +42,7 @@ print( gcd(a,b) )
 ```java
 import java.util.*;
 
-public class zztemp {
+public class Dcoder {
 	public static int gcd(int a, int b) {
 		if (b%a == 0) {
 			return a;

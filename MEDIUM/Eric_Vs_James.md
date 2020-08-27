@@ -22,7 +22,7 @@ print(LCM)
 ## Java
 ```java
 import java.util.Scanner;
-public class template {
+public class Dcoder {
 
 	private static long gcd(long a, long b) {
 		if (a%b == 0) { return b; }

@@ -15,7 +15,7 @@ print (s.title())
 ## Java
 ```java
 import java.util.Scanner;
-public class template {
+public class Dcoder {
 
 	private static String upper(String s) {
 

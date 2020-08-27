@@ -29,7 +29,7 @@ print( "Prime" if isPrime(num) else "Not Prime")
 ## Java
 ```java
 import java.util.Scanner;
-public class template {
+public class Dcoder {
 
 	private static boolean isPrime(int n) {
 

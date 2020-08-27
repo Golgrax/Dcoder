@@ -18,7 +18,7 @@ for i in range( test ):
 ```java
 import java.util.Scanner;
 
-public class zztemp {
+public class Dcoder {
 
 	public static void main(String[] args) {
 	

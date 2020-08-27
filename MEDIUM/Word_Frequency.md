@@ -30,7 +30,7 @@ print( " ".join
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class zztemp {
+public class Dcoder {
 
 	public static void main(String[] args) {
 		

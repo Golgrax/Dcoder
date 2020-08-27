@@ -32,7 +32,7 @@ for i in range(test):
 ## Java
 ```java
 import java.util.Scanner;
-public class template {
+public class Dcoder {
 
 	private static String rev( String s ) {
 

@@ -13,7 +13,7 @@ print( len([i for i in range(l, h+1) if i%d==0]) )
 ```java
 import java.util.*;
 
-public class zztemp {
+public class Dcoder {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		

@@ -22,7 +22,7 @@ print("YES" if len(panagram)==0 else "NO")
 ```java
 import java.util.Scanner;
 
-public class zztemp {
+public class Dcoder {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		

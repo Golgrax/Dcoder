@@ -19,7 +19,7 @@ print(s+"way" if s[0] in "aeiou" else s[1:]+s[0]+"ay")
 ## Java
 ```java
 import java.util.Scanner;
-public class template {
+public class Dcoder {
 
 	private static boolean isNotVowel (char c) {
 		if (c=='a' || c=='e' || c=='i' || c=='o' || c=='u')

@@ -13,7 +13,7 @@ print("Yes" if string==string[::-1] else "No")
 ```java
 import java.util.*;
 
-public class zztemp {
+public class Dcoder {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		

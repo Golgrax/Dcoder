@@ -9,7 +9,7 @@ print( "Hello World" )
 ```java
 import java.util.*;
 
-public class zztemp {
+public class Dcoder {
 	public static void main(String[] args) {		
 		System.out.println("Hello Wolrd");
 	}

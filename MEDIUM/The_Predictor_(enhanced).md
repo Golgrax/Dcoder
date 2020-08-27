@@ -17,7 +17,7 @@ print("Bad" if c else "good")
 ## Java
 ```java
 import java.util.Scanner;
-public class template {
+public class Dcoder {
 
 	private static int count(String s) {
 		int i = 0;

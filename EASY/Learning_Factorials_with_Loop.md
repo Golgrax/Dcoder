@@ -13,7 +13,7 @@ def fac(n):
 ```java
 import java.util.*;
 
-public class zztemp {
+public class Dcoder {
 	public static int fac(int n) {
 		if (n==1) {
 			return 1;

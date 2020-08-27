@@ -19,7 +19,7 @@ print(len(l)-l.index(n)-1)
 ## Java
 ```java
 import java.util.Scanner;
-public class template {
+public class Dcoder {
 
 	public static void main(String[] args) {
 

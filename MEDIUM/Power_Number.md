@@ -20,7 +20,7 @@ We can simply do it by using, power function by,
 ```java
 import java.util.Scanner;
 
-public class template {
+public class Dcoder {
 
 	private static boolean root(long n) {
 

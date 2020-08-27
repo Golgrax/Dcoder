@@ -33,7 +33,7 @@ print(len([n for n in num if isprime(n)]))
 ```java
 import java.util.*;
 
-public class zztemp {
+public class Dcoder {
 	public static boolean isprime(int n) {
 		if (n==2 || n==3)
 			return true;

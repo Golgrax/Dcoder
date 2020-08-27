@@ -9,7 +9,7 @@ print( 10000//int(input()) )
 ```java
 import java.util.*;
 
-public class zztemp {
+public class Dcoder {
 	public static void main(String[] args) {		
 		Scanner sc= new Scanner(System.in);
 

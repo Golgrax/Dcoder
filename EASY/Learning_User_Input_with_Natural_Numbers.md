@@ -9,7 +9,7 @@ print( sum(i for i in range(1, int(input())+1)) )
 ```java
 import java.util.*;
 
-public class zztemp {
+public class Dcoder {
 	public static void main(String[] args) {		
 		Scanner sc= new Scanner(System.in);
 

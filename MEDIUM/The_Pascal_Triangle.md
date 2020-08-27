@@ -27,7 +27,7 @@ for i,x in enumerate(l):
 ## Java
 ```java
 import java.util.Scanner;
-public class template {
+public class Dcoder {
 
 	private static int combi(int a, int b) {
 		int num = a, den = b;

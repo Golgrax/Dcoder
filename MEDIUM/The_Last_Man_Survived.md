@@ -29,7 +29,7 @@ for t in range(test):
 ## Java
 ```java
 import java.util.Scanner;
-public class template {
+public class Dcoder {
 
 	private static int[] last(int a[]){
 		if (a.length == 1) { return a; }

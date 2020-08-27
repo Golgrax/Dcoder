@@ -16,7 +16,7 @@ for test in range( int(input()) ):
 ```java
 import java.util.Scanner;
 
-public class template {
+public class Dcoder {
 
 	public static void main(String[] args) {
 

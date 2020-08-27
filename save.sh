@@ -16,7 +16,7 @@ python=$"## Python
 "
 java=$"## Java
 \`\`\`java
-"$(cat template.java)$"
+"$(cat Dcoder.java)$"
 \`\`\`
 
 "
@@ -50,7 +50,7 @@ void main() {
 
 # clear template.java file
 echo "import java.util.Scanner;
-public class template {
+public class Dcoder {
 
 	public static void main(String[] args) {
 
@@ -58,7 +58,7 @@ public class template {
 
 	}
 
-}" > "template.java"
+}" > "Dcoder.java"
 
 
 # clear template.py file

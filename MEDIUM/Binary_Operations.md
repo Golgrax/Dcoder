@@ -20,7 +20,7 @@ print( bin( int(a,2) * int(b,2) )[2:] )
 ```java
 import java.util.Scanner;
 
-public class template {
+public class Dcoder {
 
 	public static void main(String[] args) {
 
