@@ -1,10 +1,11 @@
 # Varaible to store details
-filename="./MEDIUM/.md"
+folder=""
+name=""
+filename="./$folder/$name.md"
 
 description="\
 ## Description
 \`\`\`
-
 \`\`\`
 
 "
@@ -64,5 +65,11 @@ public class Dcoder {
 # clear template.py file
 echo "" > "template.py"
 
+
 # Clear save.sh file
 git checkout -- save.sh
+
+#Commit & push
+git add .
+git commit -m "$folder - $name"
+git push
