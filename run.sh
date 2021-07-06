@@ -12,11 +12,12 @@ if [[ $1 == "c" ]]; then
 		rm "./a.out"
 	fi
 elif [[ $1 == "java" ]]; then
-	javac "template.java"
+	javac "Dcoder.java"
 	# Check if file exist
-	if [ -f "template.class" ]; then
-		java "template"
-		rm "template.class"
+	if [ -f "Dcoder.class" ]; then
+		java "Dcoder"
+		rm "Dcoder.class"
+		rm "Dcoder\$1.class"
 	fi
 else
 	python3 "template.py"
