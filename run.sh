@@ -17,7 +17,9 @@ elif [[ $1 == "java" ]]; then
 	if [ -f "Dcoder.class" ]; then
 		java "Dcoder"
 		rm "Dcoder.class"
-		rm "Dcoder\$1.class"
+		if [ -f "Dcoder\$1.class" ]; then
+			rm "Dcoder\$1.class"
+		fi
 	fi
 else
 	python3 "template.py"
