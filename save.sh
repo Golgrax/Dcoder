@@ -50,7 +50,7 @@ void main() {
 
 
 # clear template.java file
-echo "import java.util.Scanner;
+echo "import java.util.*;
 public class Dcoder {
 
 	public static void main(String[] args) {
