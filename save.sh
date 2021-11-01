@@ -65,6 +65,13 @@ public class Dcoder {
 # clear template.py file
 echo "" > "template.py"
 
+# remove excutables
+if [[ -f "Dcoder" ]]; then
+	rm Dcoder
+fi
+if [[ -f "a.out" ]]; then
+	rm a.out
+fi
 
 # Clear save.sh file
 git checkout -- save.sh
